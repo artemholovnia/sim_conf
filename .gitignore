@@ -1,0 +1,6 @@
+celery/*
+redis-server/*
+!redis-server/redis.conf
+!celery/.gitkeep
+sim/
+venv/
